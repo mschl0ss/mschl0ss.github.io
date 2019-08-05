@@ -64,3 +64,19 @@
     height: 197px;
     box-shadow: 0 0 10px;
 }
+
+ul.major-icons li {
+    position: relative;
+    height: 150px;
+    width: 150px;
+}
+ul.major-icons span {
+    position: absolute;
+}
+ul.major-icons li i::before{
+    /* position: absolute;
+    left: 30%;
+    top: 30%; */
+    font-size: 5em;
+
+}
