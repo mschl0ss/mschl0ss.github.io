@@ -9,4 +9,5 @@
 .image.fit.tease img{
     width: 302px;
     height: 197px;
+    box-shadow: 0 0 10px;
 }
