@@ -5,11 +5,30 @@
 /* Corben */
 /* font-family: 'Corben', cursive; */
 @import url('https://fonts.googleapis.com/css?family=Corben&display=swap');
-.profile-pic {
+.profile-wrapper {
     border-radius: 100px;
     box-shadow: 0px 0px 10px 0px #efefef;
+    height: 138px;
+    width: 138px;
+    overflow: hidden;
+    display: inline-block;
+    position: relative;
+
 }
 
+.profile-pic {
+    width: 250px;
+    height: auto;
+    transform: rotate(90deg);
+    position: relative;
+    left: -55px;
+    top: -10px;
+    
+}
+
+#one img {
+    max-height: 391px;
+}
 #ctype h3 {
     font-family: 'Bungee Outline', cursive;
     font-weight: bold;
