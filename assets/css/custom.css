@@ -67,6 +67,10 @@
     border-right: none;
     background: #E50301;
 }
+
+#drm .button {
+    cursor: not-allowed;
+}
 #drm .right {
     right:0;
     border-radius: 0 100px 100px 0;
