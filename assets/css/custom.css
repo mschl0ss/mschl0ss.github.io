@@ -19,6 +19,7 @@
 .profile-pic {
     width: 250px;
     height: auto;
+    -webkit-transform: rotate(90deg);
     transform: rotate(90deg);
     position: relative;
     left: -55px;
