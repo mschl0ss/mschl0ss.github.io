@@ -17,6 +17,17 @@
 }
 
 .profile-pic {
+    width: 250px;
+    height: auto;
+    /* -webkit-transform: rotate(0deg);
+    transform: rotate(90deg); */
+    position: relative;
+    left: -55px;
+    top: -75px;
+    
+}
+
+.profile-pic-new {
     width: 200px;
     height: auto;
     position: relative;
