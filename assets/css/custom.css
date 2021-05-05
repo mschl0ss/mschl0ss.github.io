@@ -16,7 +16,7 @@
 
 }
 
-.profile-pic {
+.profile-pic-old {
     width: 250px;
     height: auto;
     /* -webkit-transform: rotate(0deg);
@@ -27,7 +27,7 @@
     
 }
 
-.profile-pic-new {
+.profile-pic {
     width: 200px;
     height: auto;
     position: relative;
