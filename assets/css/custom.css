@@ -82,6 +82,8 @@
 .image.fit {
     display: flex;
     justify-content: center;
+    height: 100%;
+    flex-direction: column;
 }
 .image.fit.tease img{
     width: 302px;
