@@ -94,6 +94,9 @@
     display: flex;
     justify-content: center;
 }
+.image.fit.medium {
+    flex-direction: column;
+}
 .image.fit.tease img{
     width: 302px;
     height: 197px;
